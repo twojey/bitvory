@@ -12,7 +12,7 @@
    :target: https://gitter.im/python3-krakenex/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 
-`krakenex`
+`Code de l'API de kraken`
 ==========
 
 Kraken.com exchange API, Python 3 package.
